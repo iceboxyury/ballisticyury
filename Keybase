@@ -1,0 +1,66 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am iceboxyury on github.
+  * I am iceboxyury (https://keybase.io/iceboxyury) on keybase.
+  * I have a public key ASCWh1CTQwTjeqjDa552fSzfGjp21INqhTsRPQO2ym2pSAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120968750934304e37aa8c36b9e767d2cdf1a3a76d4836a853b113d03b6ca6da9480a",
+      "host": "keybase.io",
+      "kid": "0120968750934304e37aa8c36b9e767d2cdf1a3a76d4836a853b113d03b6ca6da9480a",
+      "uid": "a3e424b60d296114f195107cc3e6e119",
+      "username": "iceboxyury"
+    },
+    "merkle_root": {
+      "ctime": 1503662221,
+      "hash": "8bc5215e2beb78b272e34aca47191618a6ff343d322c9077fa346cbf28068a233dfa718de4738530af97e8013239fb8f4f85b1b57e3aba78da54d66a3d8038ac",
+      "hash_meta": "e6e480acd0d958984749a6f9eac60bc120cad95279735a3ebf9a17ca95c06eca",
+      "seqno": 1347985
+    },
+    "service": {
+      "name": "github",
+      "username": "iceboxyury"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.27"
+  },
+  "ctime": 1503662280,
+  "expire_in": 504576000,
+  "prev": "42fdc8dffc5aa01b81315b00a3632587f15a86c205d69141f9f92fe7896dd42b",
+  "seqno": 6,
+  "tag": "signature"
+}
+```
+
+with the key [ASCWh1CTQwTjeqjDa552fSzfGjp21INqhTsRPQO2ym2pSAo](https://keybase.io/iceboxyury), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglodQk0ME43qow2uedn0s3xo6dtSDaoU7ET0DtsptqUgKp3BheWxvYWTFA0B7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOTY4NzUwOTM0MzA0ZTM3YWE4YzM2YjllNzY3ZDJjZGYxYTNhNzZkNDgzNmE4NTNiMTEzZDAzYjZjYTZkYTk0ODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOTY4NzUwOTM0MzA0ZTM3YWE4YzM2YjllNzY3ZDJjZGYxYTNhNzZkNDgzNmE4NTNiMTEzZDAzYjZjYTZkYTk0ODBhIiwidWlkIjoiYTNlNDI0YjYwZDI5NjExNGYxOTUxMDdjYzNlNmUxMTkiLCJ1c2VybmFtZSI6ImljZWJveHl1cnkifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDM2NjIyMjEsImhhc2giOiI4YmM1MjE1ZTJiZWI3OGIyNzJlMzRhY2E0NzE5MTYxOGE2ZmYzNDNkMzIyYzkwNzdmYTM0NmNiZjI4MDY4YTIzM2RmYTcxOGRlNDczODUzMGFmOTdlODAxMzIzOWZiOGY0Zjg1YjFiNTdlM2FiYTc4ZGE1NGQ2NmEzZDgwMzhhYyIsImhhc2hfbWV0YSI6ImU2ZTQ4MGFjZDBkOTU4OTg0NzQ5YTZmOWVhYzYwYmMxMjBjYWQ5NTI3OTczNWEzZWJmOWExN2NhOTVjMDZlY2EiLCJzZXFubyI6MTM0Nzk4NX0sInNlcnZpY2UiOnsibmFtZSI6ImdpdGh1YiIsInVzZXJuYW1lIjoiaWNlYm94eXVyeSJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yNyJ9LCJjdGltZSI6MTUwMzY2MjI4MCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI0MmZkYzhkZmZjNWFhMDFiODEzMTViMDBhMzYzMjU4N2YxNWE4NmMyMDVkNjkxNDFmOWY5MmZlNzg5NmRkNDJiIiwic2Vxbm8iOjYsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAXiv3Xgiyp/cWkIjra3yCJNwD1eLTvHhtYfh7akDRP+7T/g37m9OI8NmR0MqfinJ6/ro288nfMdWvBZjzhn2PD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIts7S/BCs4NHL06XMqaQ+3l6h1lmy/q3uTd601qdh7Jo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/iceboxyury
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id iceboxyury
+```
